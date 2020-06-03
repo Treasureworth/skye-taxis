@@ -1,0 +1,5 @@
+export const mainPrimaryColor = "#465aa1"
+export const mainSecondaryColor = "#6273ac"
+export const faintSecondaryColor = "#cdd8ea"
+export const shadowColor = "rgba(121,138,189, .3)"
+export const white = "#ffffff"
